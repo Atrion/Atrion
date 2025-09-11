@@ -60,4 +60,4 @@
 </div>
 
 ---
-<p align="center"><sub>PEI roots run deep — Quiet roads, red soil<br>Made with care on Prince Edward Island</sub></p>
+<p align="center"><sub>PEI roots run deep — Quiet roads and red soil<br>Made with care on Prince Edward Island</sub></p>
