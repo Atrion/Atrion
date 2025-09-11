@@ -9,9 +9,9 @@
 ---
 
 - 👋 **About me:** Christian, maker, writer, historian from Prince Edward Island (Atlantic Canada).  
-- 🕯️ **Focus:** Gospel work & Bible study resources, devotional writing, and preserving Island heritage.  
+- 🕯️ **Focus:** Gospel and Ministry resources, Writing, preserving Island heritage, and random tech projects.  
 - 🧭 **What I’m building:** Sites, articles, transcripts, and study tools for believers.  
-- ✍️ **Writing now:** Devotionals & long-form articles (*Seven Churches of Revelation*, *Sermon on the Mount*, *Joseph: Integrity under Pressure*).  
+- ✍️ **Writing now:** Devotionals & long-form articles, Poetry, and Historical articles. 
 - 🛠️ **Toolbox:** Jekyll (GitHub Pages), Markdown, Obsidian, Python/Node, Docker, Proxmox, RPi, GitHub Actions, YAML.  
 - 🤝 **Collab:** PRs/issues welcome on typos, data fixes, small features, and docs polish.  
 - 💬 **Contact:** Open an issue on a relevant repo or via [Atrion@fromgravelhill.ca](mailto:Atrion@fromgravelhill.ca).  
