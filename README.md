@@ -27,37 +27,4 @@
 </p>
 
 ---
-<div align="center">
-
-<details>
-  <summary>GitHub at a glance (Click to expand)</summary>
-  <br>
-<p align="center">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrion&layout=compact&theme=transparent"
-  />
-</p>
-<p align="center">
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=atrion&show_icons=true&hide_title=true&theme=transparent"
-  />
-</p>
-<p align="center">
-  <img
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=atrion&theme=transparent"
-  />
-</p>
-<p align="center">
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=atrion&theme=github-compact"
-  />
-</p>
-</details>
-</div>
-
----
 <p align="center"><sub>PEI roots run deep — Quiet roads and red soil<br>Made with care on Prince Edward Island</sub></p>
